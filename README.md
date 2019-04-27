@@ -1,5 +1,7 @@
-# HW1D
-Homework 1 D - Intersellar Tesseract Effect
+# CMPM163-HW1D
+Discuss a Visual Effect
+
+## Intersellar Tesseract Effect
 
 I like the infinite recursive nature of the effect in the final scene of the movie Intersellar (2014). Even though the effect was done with both practical and computer effects, it is still interesting. Another cool thing is apparent when you look at the void of infinity, you can still see the shape (a cube) of the orginial object. 
 The effect doesn't change depending on lights or the camera. However, depending on where you look you continue to see the same recursive effect. Each corner of a cube goes to infinity. The center panels just stretch a texture. 
